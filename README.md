@@ -17,7 +17,7 @@ One of the basic principles we've tried to follow in designing this Website is t
 -   Our website uses browser cookies in order to gather information on usage patterns.
 -   Our software may, with your permission, send us statistics about its use (see below).
 -   Our servers maintain industry-standard logs of their activity: web page visits, including IP address,
-    Referer: header, and user-agent; e-mail sent and received; and the like.
+    Referer: header, and user-agent; envelope information of e-mail sent and received; and the like.
 
 ### How do we use the information we collect?
 
@@ -86,4 +86,4 @@ If you wish to cancel your password, please contact our Customer Service Departm
 
 Questions regarding this statement should be directed to <info@omnigroup.com>.
 
-**Last Updated: Feb. 21, 2012**
+**Last Updated: Feb. 13, 2014**
