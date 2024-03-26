@@ -108,7 +108,7 @@ If the Commercial Computer Software Restricted Rights clause at 48 CFR § 52.227
 
 The Software (i) was developed at private expense, and no part of it was developed with governmental funds; (ii) is a trade secret of the Omni Group for all purposes of the Freedom of Information Act; (iii) is “restricted computer software” subject to limited utilization as provided in the contract between the vendor and the governmental entity; and (iv) in all respects is proprietary data belonging solely to the Omni Group.
 
-**COPYRIGHT NOTICE.** Copyright © 1994-2023 Omni Development, Inc., 2917 NE Blakeley St, Seattle, WA 98105-3120. All rights reserved. Any rights not expressly granted in this License Agreement are reserved.
+**COPYRIGHT NOTICE.** Copyright © 1994-2024 Omni Development, Inc., 2917 NE Blakeley St, Seattle, WA 98105-3120. All rights reserved. Any rights not expressly granted in this License Agreement are reserved.
 
 **TRADEMARKS.** “The Omni Group,” “OmniGraffle,” “OmniOutliner,” “OmniPlan,” “OmniDiskSweeper,” and “OmniWeb” are either trademarks or registered trademarks of Omni Development, Inc. “OmniFocus” is a registered trademark and is used under license by Omni Development Inc.
 
